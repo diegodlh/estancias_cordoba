@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "estancias_cascos",
+"features": [
+{ "type": "Feature", "properties": { "label": "Alta Gracia" }, "geometry": { "type": "Point", "coordinates": [ -64.434722, -31.6575 ] } },
+{ "type": "Feature", "properties": { "label": "Jesús María" }, "geometry": { "type": "Point", "coordinates": [ -64.097558, -30.970447 ] } },
+{ "type": "Feature", "properties": { "label": "Caroya" }, "geometry": { "type": "Point", "coordinates": [ -64.106194, -30.988106 ] } },
+{ "type": "Feature", "properties": { "label": "Santa Catalina" }, "geometry": { "type": "Point", "coordinates": [ -64.233825, -30.869772 ] } },
+{ "type": "Feature", "properties": { "label": "La Candelaria" }, "geometry": { "type": "Point", "coordinates": [ -64.854978, -31.098369 ] } }
+]
+}
