@@ -1,6 +1,6 @@
 # Estancias Jesuíticas de Córdoba: Extensión territorial aproximada
 
-Georreferenciación y adaptación del mapa "Las Estancias Jesuíticas: Extensión Territorial (circa 1750)" de Luis Córsico. Publicado en: Piana (2004) "La Estancia Jesuítica de Caroya. Historia de la propiedad (siglos XVI-XIX)". Según reproducción en: [https://sfera.unife.it/handle/11392/2389003 Cufré, Pedro David (2015) "Aproximaciones a los problemas de interpretación y conservación arqueológica arquitectónica en la Estancia Jesuítica de Jesús María, Córdoba, Argentina."].
+Georreferenciación y adaptación del mapa "Las Estancias Jesuíticas: Extensión Territorial (circa 1750)" de Luis Córsico. Publicado en: Piana (2004) "La Estancia Jesuítica de Caroya. Historia de la propiedad (siglos XVI-XIX)". Según reproducción en: [Cufré, Pedro David (2015) "Aproximaciones a los problemas de interpretación y conservación arqueológica arquitectónica en la Estancia Jesuítica de Jesús María, Córdoba, Argentina"]( https://sfera.unife.it/handle/11392/2389003).
 
 # Procedimiento
 
@@ -21,3 +21,8 @@ Georreferenciación y adaptación del mapa "Las Estancias Jesuíticas: Extensió
 8. Aquí uso el plugin Lat Lon Tools para crear los puntos correspondientes a los cinco cascos de estancias según las coordenadas que figuran aquí: https://es.wikipedia.org/wiki/Estancias_jesu%C3%ADticas. Faltaría la coordenada correspondiente al yacimiento arqueológico de la estancia San Ignacio, declarado Monumento Histórico Provincial en 2017.
 
 9. Finalmente, exporto las capas en formato GeoJSON para guardar en Wikimedia Commons: https://www.mediawiki.org/wiki/Help:Map_Data
+
+## Licencia
+Diego de la Hera © 2024. Algunos derechos reservados.
+
+Este trabajo ha sido publicado bajo la licencia [Creative Commons Atribución 4.0 Internacional](LICENSE).
